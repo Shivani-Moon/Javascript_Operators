@@ -25,8 +25,8 @@
 
 // Assignment1: Arithmetic Operators
 
-num1 = 10;
-num2 = 25;
+let num1 = 10;
+let num2 = 25;
 
 console.log('Addition of two numbers',num1+num2);
 
